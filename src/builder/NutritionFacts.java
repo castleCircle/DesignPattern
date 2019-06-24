@@ -60,7 +60,6 @@ public class NutritionFacts {
 	
 	public String toString() {
 		return this.calories + " / " + this.fat + " / " + this.servingSize;
-		
 	}
 	
 	public static void main(String[] args) {
