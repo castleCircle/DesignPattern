@@ -4,3 +4,4 @@
 - Singleton
 - Builder
 - Prototype
+- Adapter
